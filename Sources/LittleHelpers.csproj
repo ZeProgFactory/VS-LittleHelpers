@@ -284,6 +284,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\IconFactory\IconFactory.Core\IconFactory.Core.csproj">
+      <Project>{1a5b217c-a0ed-4823-a498-1b3db276f70a}</Project>
+      <Name>IconFactory.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProjectTool\ProjectTool.Core\ProjectTool.Core.csproj">
       <Project>{44f8d6d3-e362-47d3-911a-3234a3d55645}</Project>
       <Name>ProjectTool.Core</Name>
