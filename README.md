@@ -8,7 +8,7 @@ based on [madskristensen/FileDiffer](https://github.com/madskristensen/FileDiffe
 Each module may be uses (and tested) independently from Visual Studio.
 
  * FileSync - [Compare/sync text file contents](https://github.com/ZeProgFactory/VS-LittleHelpers/tree/master/FileSync)
- * IconFactory - Generate Assets (icons, splashcreen, ...)
+ * IconFactory - [Generate Assets (icons, splashcreen, ...)](https://github.com/ZeProgFactory/VS-LittleHelpers/tree/master/IconFactory)
  * ProjectTool - Copy & rename solution / projects
  * ProjectTool - Clean projects (path to packages)
  * UpdateVersionInfo - [Update version info](https://github.com/ZeProgFactory/UpdateVersionInfo)  
