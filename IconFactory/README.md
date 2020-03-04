@@ -8,3 +8,9 @@ The resolution files are stored in a file hierarchy corresponding to the differe
 
 ### [IconFactory.Templates.ini](https://github.com/ZeProgFactory/VS-LittleHelpers/blob/master/IconFactory/IconFactory.Core/IconFactory.Templates.ini)
 Basic ini file containin the size definitions for the different icons, splashscreens, ... 
+
+   
+...
+    
+   
+Otherwise there is also [mfractor](https://www.mfractor.com/blogs/news/simplified-image-asset-management-for-xamarin-apps) ...
